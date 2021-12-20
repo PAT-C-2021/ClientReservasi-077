@@ -174,7 +174,7 @@ namespace ClientReservasi_20190140077
             this.dtPemesanan.Name = "dtPemesanan";
             this.dtPemesanan.Size = new System.Drawing.Size(481, 173);
             this.dtPemesanan.TabIndex = 14;
-            this.dtPemesanan.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtPemesanan_CellContentClick);
+            this.dtPemesanan.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtPemesanan_CellContentClick);
             // 
             // Form1
             // 
